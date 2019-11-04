@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserSearchForm render the component 1`] = `
+<div>
+  <form>
+    <el-input-stub value="" type="text" autocomplete="off" validateevent="true" placeholder="search for user" class="search-form__input">
+      <el-button-stub type="default" icon="el-icon-search" nativetype="submit" class="search-form__button">提交</el-button-stub>
+    </el-input-stub>
+  </form>
+</div>
+`;
